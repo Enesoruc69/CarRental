@@ -11,5 +11,3 @@ You can easily determine your location and vehicle delivery date and get a price
 
 -HTML
 -CSS
-
-#GIF
